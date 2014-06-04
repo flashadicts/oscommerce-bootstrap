@@ -1,0 +1,27 @@
+a:12:{s:8:"encoding";s:5:"UTF-8";s:5:"title";s:18:"osCommerce Add-Ons";s:4:"link";s:25:"http://www.oscommerce.com";s:11:"description";s:29:"osCommerce, Sell With Emotion";s:8:"language";s:2:"en";s:9:"copyright";s:29:"Copyright (c) 2012 osCommerce";s:14:"managingEditor";s:19:"hpdl@oscommerce.com";s:11:"image_title";s:10:"osCommerce";s:9:"image_url";s:53:"http://www.oscommerce.com/images/oscommerce_88x31.gif";s:10:"image_link";s:25:"http://www.oscommerce.com";s:5:"items";a:5:{i:0;a:4:{s:5:"title";s:22:"Review Approval System";s:4:"link";s:36:"http://addons.oscommerce.com/info/76";s:11:"description";s:111:"This is just an update to the readme file because it did not get updated properly for the last couple versions.";s:7:"pubDate";s:31:"Sun, 16 Feb 2014 00:28:00 +0100";}i:1;a:4:{s:5:"title";s:26:"Reviews in Product Display";s:4:"link";s:37:"http://addons.oscommerce.com/info/734";s:11:"description";s:701:"Full Package  <br />
+<br />
+Made some changes to the code for product_info.php because display of the reviews was odd looking:  <br />
+<br />
+Moved the buttons to the corners of the box. They were all in different positions before and there was no symmetry  <br />
+<br />
+Changed review boxes so they were centered and stretched out across box instead of being tall and narrow and making page really long  <br />
+<br />
+Removed the box from around the Write Reviews button. This looked silly. None of the other buttons had a box around them  <br />
+<br />
+This is based on v2.3.  I did not include changes from profesorasklep since I was unsure what he as even doing, due to very poor documentation...";s:7:"pubDate";s:31:"Sat, 15 Feb 2014 17:14:15 +0100";}i:2;a:4:{s:5:"title";s:32:"BeezDesk CRM Customer Insight CE";s:4:"link";s:38:"http://addons.oscommerce.com/info/8957";s:11:"description";s:91:"- improved mailbeez history view<br />
+- improved order view<br />
+- improved products view";s:7:"pubDate";s:31:"Fri, 14 Feb 2014 18:01:08 +0100";}i:3;a:4:{s:5:"title";s:18:"Invoice Editor 1.0";s:4:"link";s:38:"http://addons.oscommerce.com/info/8885";s:11:"description";s:605:"Modifications to improve the page break in a multipage invoices and the product listing in the pdf bills.<br />
+Thanks to AMN who has contributed some code.<br />
+<br />
+Not full package, only changed files invoice_pdf.php and invoice_editor.pdf.<br />
+<br />
+_____________________________________________<br />
+<br />
+&Auml;nderungen zur Verbesserung des Seitenumbruchs bei mehrseitigen Rechnungen und der Produkt-Auflistung in den pdf-Rechnungen.<br />
+Dank an AMN, der einigen Code beigetragen hat.<br />
+<br />
+Kein full package, nur die ge&auml;nderten Dateien invoice_pdf.php and invoice_editor.pdf.";s:7:"pubDate";s:31:"Fri, 14 Feb 2014 13:03:34 +0100";}i:4;a:4:{s:5:"title";s:28:"Responsive HTML 5 osCommerce";s:4:"link";s:38:"http://addons.oscommerce.com/info/9008";s:11:"description";s:161:"Repositioned the call for the html5.js to below the stylesheets and call for jquery.<br />
+<br />
+Added the js folder and html5.js file<br />
+<br />
+Full Package";s:7:"pubDate";s:31:"Thu, 13 Feb 2014 09:46:18 +0100";}}s:11:"items_count";i:5;}
